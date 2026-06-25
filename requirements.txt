@@ -1,0 +1,5 @@
+llama-index
+llama-index-readers-file
+gradio
+openai
+pypdf
